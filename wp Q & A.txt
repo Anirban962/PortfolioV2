@@ -1,0 +1,18 @@
+HTML
+1. New html element. like picture tag
+2. video tag in html
+
+
+
+
+WP
+1. Child theme
+2. custom login in wp
+3. version updated via code
+4. acf get_field & get_sub_field
+5. if the wordpress version old and if we delete the wp-content file and paste the rest of it into new wordpress version, what error will shoow.
+
+if wp on live server then how can i make changes via scss
+
+
+# what are the different role of admin, developer, monitoring in vcs?
